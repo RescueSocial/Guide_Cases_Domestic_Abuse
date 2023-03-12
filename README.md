@@ -57,10 +57,9 @@ This guide addresses how a person can look out for possible risks during and aft
 - Types of Data Analysis Processes
 ##### Timeline and Storyboard Presentation
 
-
 ### Timeline
 #### What is a Timeline
-<br>Being able to identify domestic abuse is being able to create a timeline identifying how abuse has affected the victim’s trajectory. To start a legal case for domestic abuse, the victim needs to have a clear account of how involvement with an abuser has shifted the victim’s social network, the decisions they make, and their attitude towards the world.
+Being able to identify domestic abuse is being able to create a timeline identifying how abuse has affected the victim’s trajectory. To start a legal case for domestic abuse, the victim needs to have a clear account of how involvement with an abuser has shifted the victim’s social network, the decisions they make, and their attitude towards the world.
 
 The timeline is the collection of injuries, witnesses, communication, and documents that create the complete narrative of how the abusive relationship has affected the victim’s life. Prior to the relationship, people and evidence can prove the victim’s character and their values. During the relationship, documents and messages can prove the destructive influence that the abuser has had on the victim’s life. After the relationship, any communication and witnesses can prove the continued threat and impact that the abuser still has on the victim.
 
