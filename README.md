@@ -1,7 +1,7 @@
 # Guide_Cases_Domestic_Abuse
 
 ### <b>Guide to Successful Cases for Domestic Abuse Victims -
-<br>Timelines, Types of Abuse, Evidence, Witnesses, Aid, & Technology</b>
+<b>Timelines, Types of Abuse, Evidence, Witnesses, Aid, & Technology</b>
 
 Despite the growing awareness of domestic abuse and the social recognition for abuse victims, this support is harder to gain through court systems and legal routes. In the aftermath of an abusive relationship, the risk of harassment and further abuse from the abuser can remain high especially because they already gained access to the victim’s network and information. In addition to physical assault, verbal abuse and psychological damage can also pose a large risk to the victim’s ability to recover their life after the relationship.
 
@@ -42,7 +42,7 @@ This guide addresses how a person can look out for possible risks during and aft
 - Character Witnesses
 - Court Statements
 - Evidence
-##### Using Data Analysis As Evidence</b>
+##### Using Data Analysis As Evidence
 - Using Data Science in Legal Cases 
 - Useful Databases
 - What is Data Analysis
