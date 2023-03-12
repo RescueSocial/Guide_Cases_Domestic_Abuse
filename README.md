@@ -14,27 +14,27 @@ This guide addresses how a person can look out for possible risks during and aft
 <br><b>Timeline
 - What is a Timeline
 - Stages of the Timeline
-<br<b>What is “Domestic Abuse”
+##### What is “Domestic Abuse”
 - Introduction
 - Common Types of Abusive Relationships
 - Cycles in an Abusive Relationship
 - Coercive Control
 - Coercive Control Through Technology Abuse 
 - Network Abuse and Isolation
-<br><b>Preventative Measures
+##### Preventative Measures
 - Making Progress
 - Gathering Evidence
 - Maintaining Networks
 - Technological Security
 - Legal Measures
-<br><b>Community Aid
+##### Community Aid
 - Why It’s Important To Get Help
 - What Is Community Aid
 - Aid Organizations in the United States
 - International Aid Organizations 
 - Legal Assistance for Victim Protection
 
-<br><b>Creating a Legal Case</b>
+##### Creating a Legal Case
 - Purposes for Domestic Violence Court Cases
 - Criminal Lawsuit Structure
 - Civil Lawsuit Structure
@@ -42,7 +42,7 @@ This guide addresses how a person can look out for possible risks during and aft
 - Character Witnesses
 - Court Statements
 - Evidence
-<br><b>Using Data Analysis As Evidence</b>
+##### Using Data Analysis As Evidence</b>
 - Using Data Science in Legal Cases 
 - Useful Databases
 - What is Data Analysis
@@ -51,11 +51,11 @@ This guide addresses how a person can look out for possible risks during and aft
 - Types of Data Gathering Processes
 - Types of Machine Learning Biases
 - Considering the Role of Artificial Intelligence
-<br><b>Linking Domestic Abuse Context to Data Analysis
+##### Linking Domestic Abuse Context to Data Analysis
 - General Process
 - Data Analysis
 - Types of Data Analysis Processes
-<br><b>Timeline and Storyboard Presentation</b>
+##### Timeline and Storyboard Presentation
 
 
 ### Timeline
