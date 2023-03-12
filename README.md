@@ -59,7 +59,7 @@ This guide addresses how a person can look out for possible risks during and aft
 
 
 ### Timeline
-<br><b>What is a Timeline</b>
+#### What is a Timeline
 <br>Being able to identify domestic abuse is being able to create a timeline identifying how abuse has affected the victim’s trajectory. To start a legal case for domestic abuse, the victim needs to have a clear account of how involvement with an abuser has shifted the victim’s social network, the decisions they make, and their attitude towards the world.
 
 The timeline is the collection of injuries, witnesses, communication, and documents that create the complete narrative of how the abusive relationship has affected the victim’s life. Prior to the relationship, people and evidence can prove the victim’s character and their values. During the relationship, documents and messages can prove the destructive influence that the abuser has had on the victim’s life. After the relationship, any communication and witnesses can prove the continued threat and impact that the abuser still has on the victim.
@@ -73,8 +73,8 @@ In the aftermath of an abusive relationship, it remains important to maintain a 
 Throughout this entire timeline, the abusive relationship stands at the center while each relationship and event can be considered as ripple effects. Besides a general summary of any assault and harassment, the most important point is to link various testimonies and all documented evidence to significant points of abuse and harassment. By structuring a timeline with many details, abuse in an intimate relationship can still be validated and proven. 
 
 ### What is “Domestic Abuse”
-<br><b>Introduction</b>
-<br>Domestic abuse is a pattern of abusive behavior within a relationship where one person gains and maintains power and control over another person. Domestic abuse can happen to people of any race, age, sexual orientation, religion, or gender. It affects people of all socioeconomic backgrounds and educational levels. Domestic abuse affects people in a range of relationships, from dating to being married. Victims of abuse can include children, relatives, and household members.
+#### Introduction
+Domestic abuse is a pattern of abusive behavior within a relationship where one person gains and maintains power and control over another person. Domestic abuse can happen to people of any race, age, sexual orientation, religion, or gender. It affects people of all socioeconomic backgrounds and educational levels. Domestic abuse affects people in a range of relationships, from dating to being married. Victims of abuse can include children, relatives, and household members.
 
 <b>//Full Guide in PDF Form In Documents Uploaded//</b>
 
