@@ -77,3 +77,11 @@ Domestic abuse is a pattern of abusive behavior within a relationship where one 
 
 <b>//Full Guide in PDF Form In Documents Uploaded//</b>
 <br>https://github.com/RescueSocialTech/Guide_Cases_Domestic_Abuse/blob/main/Guide%20to%20Successful%20Cases%20for%20Domestic%20Abuse%20Victims%20-%20Final%20Guide.pdf
+
+#### Source:
+This University Student helped create a Guide mainly for legal cases and the different layers of understanding abuse, creating successful cases, witnesses, data analysis, correlations, etc.
+
+We focused on created a Guide for Cases (including legal and criminal) which is attached. 
+<br>It's 56 pages. "Exhibits" could also be described, but the guide is great for giving out to victims and to law firms themselves.
+- Help on the Case Examples were assisted by Signature Peace of Mind https://signaturepeaceofmind.com/about-us, who has volunteered with Safe Escape:
+https://safeescape.org/about-us
