@@ -11,7 +11,7 @@ This guide addresses how a person can look out for possible risks during and aft
 
 
 #### Table of Contents
-<b>Timeline
+<b>Timeline</b>
 - What is a Timeline
 - Stages of the Timeline
 ##### What is “Domestic Abuse”
