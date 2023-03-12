@@ -7,7 +7,7 @@ Despite the growing awareness of domestic abuse and the social recognition for a
 
 This guide addresses how a person can look out for possible risks during and after an abusive relationship as well as to create a court case that can be both defensible and convincing. This process begins with creating a clear timeline for documenting the events and impact of abuse, and emphasizes being mindful of how technology can be used for help. 
 
-<b><i>Keep in mind that any legal advice or legislative knowledge in the guide is very broad, and it can be helpful to look up laws specific to your state or general region.</b></i>
+##### <i>Keep in mind that any legal advice or legislative knowledge in the guide is very broad, and it can be helpful to look up laws specific to your state or general region.</i>
 
 
 #### Table of Contents
