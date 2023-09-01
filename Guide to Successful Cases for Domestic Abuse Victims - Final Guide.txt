@@ -1,0 +1,1182 @@
+﻿Guide to Successful Cases for Domestic Abuse Victims -
+Timelines, Types of Abuse, Evidence, Witnesses, Aid, & Technology
+
+Despite the growing awareness of domestic abuse and the social recognition for abuse victims, this support is harder to gain through court systems and legal routes. In the aftermath of an abusive relationship, the risk of harassment and further abuse from the abuser can remain high especially because they already gained access to the victim’s network and information. In addition to physical assault, verbal abuse and psychological damage can also pose a large risk to the victim’s ability to recover their life after the relationship.
+
+
+  
+
+
+
+This guide addresses how a person can look out for possible risks during and after an abusive relationship as well as to create a court case that can be both defensible and convincing. This process begins with creating a clear timeline for documenting the events and impact of abuse, and emphasizes being mindful of how technology can be used for help. 
+
+
+Keep in mind that any legal advice or legislative knowledge in the guide is very broad, and it can be helpful to look up laws specific to your state or general region.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents
+1. Timeline
+   1. What is a Timeline
+   2. Stages of the Timeline
+2. What is “Domestic Abuse”
+   1. Introduction
+   2. Common Types of Abusive Relationships
+   3. Cycles in an Abusive Relationship
+   4. Coercive Control
+   5. Coercive Control Through Technology Abuse 
+      1. Network Abuse and Isolation
+3. Preventative Measures
+   1. Making Progress
+   2. Gathering Evidence
+   3. Maintaining Networks
+   4. Technological Security
+   5. Legal Measures
+4. Community Aid
+   1. Why It’s Important To Get Help
+   2. What Is Community Aid
+   3. Aid Organizations in the United States
+   4. International Aid Organizations 
+   5. Legal Assistance for Victim Protection
+
+
+5. Creating a Legal Case
+   1. Purposes for Domestic Violence Court Cases
+   2. Criminal Lawsuit Structure
+   3. Civil Lawsuit Structure
+   4. Discovery
+      1. Character Witnesses
+      2. Court Statements
+      3. Evidence
+6. Using Data Analysis As Evidence
+   1. Using Data Science in Legal Cases 
+      1. Useful Databases
+   2. What is Data Analysis
+      1. Machine Learning
+      2. Data Analysis
+   3. Types of Data Gathering Processes
+   4. Types of Machine Learning Biases
+   5. Considering the Role of Artificial Intelligence
+7. Linking Domestic Abuse Context to Data Analysis
+   1. General Process
+   2. Data Analysis
+      1. Types of Data Analysis Processes
+   3. Timeline and Storyboard Presentation
+
+
+
+
+Timeline
+What is a Timeline
+Being able to identify domestic abuse is being able to create a timeline identifying how abuse has affected the victim’s trajectory. To start a legal case for domestic abuse, the victim needs to have a clear account of how involvement with an abuser has shifted the victim’s social network, the decisions they make, and their attitude towards the world.
+  
+
+
+
+The timeline is the collection of injuries, witnesses, communication, and documents that create the complete narrative of how the abusive relationship has affected the victim’s life. Prior to the relationship, people and evidence can prove the victim’s character and their values. During the relationship, documents and messages can prove the destructive influence that the abuser has had on the victim’s life. After the relationship, any communication and witnesses can prove the continued threat and impact that the abuser still has on the victim.
+  
+
+
+
+
+
+
+
+
+
+
+
+Stages of the Timeline
+Prior to the abusive relationship, the victim can illustrate their character through character witnesses. There may be school friends, acquaintances that have since lost touch, and family members. Character witnesses like these can testify on the victim’s personality, any good deeds they have done, and their general reputation. When there is a longer span of time for the mutual relationship, there’s also more credibility given to their testimony and knowledge of you.
+During the abusive relationship, the victim could be introduced to new people, actively seeking out specific people, or reducing their contact with their older acquaintances. While the very basis of domestic abuse is to cause harm within a very intimate relationship, being able to log and label the corresponding times of when ‘outsiders’ were present can be incredibly helpful for verifying the context surrounding a particular dispute. When this is compared with any testimony from prior to the relationship, witnesses can prove that a victim has shifted their personality or actions in a way that they wouldn't have acted by themselves. 
+  
+
+In the aftermath of an abusive relationship, it remains important to maintain a timeline of various relationships because of the possibility of continued abuse. If the abuser continues to harass the victim, any records of this harassment would have to be documented through close witnesses and preserved electronic evidence. Besides providing screenshots or documents, close friends and family members can give better details about the emotional impact and the destabilizing effect that harassment created in the victim’s life.
+
+
+  
+
+
+
+Throughout this entire timeline, the abusive relationship stands at the center while each relationship and event can be considered as ripple effects. Besides a general summary of any assault and harassment, the most important point is to link various testimonies and all documented evidence to significant points of abuse and harassment. By structuring a timeline with many details, abuse in an intimate relationship can still be validated and proven. 
+________________
+What is “Domestic Abuse”
+Introduction
+Domestic abuse is a pattern of abusive behavior within a relationship where one person gains and maintains power and control over another person. Domestic abuse can happen to people of any race, age, sexual orientation, religion, or gender. It affects people of all socioeconomic backgrounds and educational levels. Domestic abuse affects people in a range of relationships, from dating to being married. Victims of abuse can include children, relatives, and household members.
+
+
+  
+
+
+
+Common Types of Abusive Relationships
+The basis of an abusive relationship is a power imbalance made by one person over another. The perpetrator of domestic abuse can cause the victim to feel dependent by using physical strength, controlling financial power, or even claiming authority as a head of the household. Often, abusers adjust their behavior to find which ways to control the other person, meaning that abuse  victims are all impacted in similar yet different ways.
+
+
+In a hetereosexual relationship, it is a more common scenario to see male partners use violence and coercive control against female partners. Women also have a higher risk of sustaining heavy injuries and have severe bruising due to differences in physical strength.
+
+
+* In fact, about 1 out of 4 women have reported experiencing severe physical abuse in their lifetime such as beating or burning.
+* When there is a female perpetrator, male victims have a higher risk of being harmed by deadly weapons and internal injuries due to a more frequent use of outside force. 
+* Not to mention, 60% of male victims also report emotional and financial abuse.
+
+
+Within the LGBTQ+ community, abuse in relationships is about equally likely if not more likely to occur. However, abuse victims are more unlikely to report threats or partner violence to the police. In certain family or community situations, the person might risk being ‘outed’ and exposed to family or friends for their identity. Since the victim might not be willing to escalate a report or go to court, the perpetrator can then use outside pressure as a power play.
+
+
+In family situations, the perpetrator may also hold control over their children or other family members due to their authority in the household. If the perpetrator is the main breadwinner or if they can claim parental responsibility, their children and relatives may be dependent from the onset of the relationship. 
+
+
+* Of all violent crime incidents between families that are reported, about 49% are against the spouses. Among the number of child victims of domestic violence, about 80% were under the age 13.
+
+
+Some parents may fall for the idea that it’s better to raise a child with both parents instead of leaving. However, the long term impact that just witnessing abuse can have on children cannot be understated. Children who have witnessed domestic abuse may often feel anxious and fearful due to their lack of understanding or control on the situation. When a child is being exposed to a traumatic environment, the prolonged feeling of toxic stress can lead to long-term mental health issues and higher risk of illnesses.
+
+
+Cycles in an Abusive Relationship
+People who have been in abusive relationships have often described three different relationship phases. The abuser’s words or actions may set the tone for how ‘happy’ or tense the relationship will be for a short period of time.
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coercive Control
+Many people may look only at the ‘abusive incident’ phase and wonder why a person would be willing to stay. A person’s inability to leave is often created by the abuser’s use of coercive control. 
+
+
+Coercive control used in domestic abuse by the abuser to intimidate and control their partner. While abusers might not be using the phrase ‘coercive control,’ there are common actions and patterns of behavior throughout the relationship. The abuser can use acts of intimidation, threats of harm, humiliation, and/or assault as ways to punish and frighten the victim.
+
+
+The following examples of coercive behaviors show an abuser can physically isolate a person and control both their private and public life:
+* Depriving them of their basic needs (e.g. food, water, shelter, sleep)
+* Depriving them from access to support systems and services (e.g. family, friends, medical services)
+* Controlling aspects of their everyday life, such as: where they can go, who they can see, what to wear and when they can sleep
+* Preventing them from having access to transportation 
+* Controlling their ability to work or go to school
+* Financial abuse and controlling their finances, such as: taking wages, using benefits, or giving allowances as punishments
+* Technology abuse, such as: monitoring via online communication tools, using spyware
+* Threatening to reveal or publish their private information
+* *This isn’t an exhaustive list of behaviors, and perpetrators will often change their behavioral conduct based on the person.
+
+
+
+
+
+
+
+
+Coercive Control Through Technology Abuse
+As technology expands and develops, its role in everyday life also grows. While social media and messaging apps are basic examples of how personal connections are made online, smart homes and video doorbells are ways in which technology extends itself into how a person runs the household. This means that some domestic abuse perpetrators will also use smart technology and the internet to control their partners even while being away. 
+
+
+  
+
+
+
+Technology abuse is the act of monitoring, controlling, and intimidating a person through the use of smart devices, messaging services, and other forms of technology.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blatant tech abuse is when the victim knows that there is technology abuse. Abusers may coerce victims into giving their passwords, access to their social media accounts, and control over their electronic devices. Abusers may also install smart technology or cameras throughout the house to place the victims in a constant state of surveillance and paranoia. 
+* Partners might use the argument that there should be more trust within the relationship, or simply apologize after they find a way into their partner’s account. 
+* In some cases, the victim could be attempting to prove that they have “nothing to hide” by actively giving access to their own devices and accounts. 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Covert tech abuse is when the victim doesn’t know that there is technology abuse happening. By simply being in the relationship, the abuser can have their partner’s private information. 
+* The abuser can often easily guess security questions. If the abuser helped the partner set up their online accounts or convinced them to share access, the abuser might continue to use that information to secretly login to the accounts. If the abuser bought their partner a device or a phone plan, they can track the person’s location and view call and text logs. 
+* Abusers might use this access to install spyware and stay ahead of the victim’s plans. Even when the abuser doesn’t try to claim ownership over their partner’s devices or accounts, they can still find opportunities to physically access these devices over the course of the relationship. 
+  
+
+* In certain cases, it may be possible for the abuser to try and retroactively seek physical access to their partner after the relationship is over. If there is a sympathetic third person who is close to both the abuser and the abuse victim, any tech abuse towards this third person can also impact the security of the abuse victim. One prominent example is having shared custody over a child. If the abuser gives the child a phone or asserts parental authority, they can insert recording devices or trackers into that device without asking the child or the other parent.
+
+
+
+
+Abusers can specifically control their partner’s technology as a way to isolate them from their network. The term ‘network abuse’ specifically describes how an abuser can use technology to cut off their partner’s family, friends, and other sources for support systems. 
+
+
+The technical barrier for hacking and computer programming has become lower due to the availability of internet resources. This means that when there’s careful planning, it’s much easier for covert tech abuse to happen. 
+  
+
+By using their access to their partner’s social media accounts or messaging platforms, abusers can send messages or cancel meetings. The abuser might also reach out to friends and acquaintances to spread a misunderstanding or the wrong story.
+
+
+The following examples of technology abuse show how an abuser can use digital access to interfere with a person’s life and decisions:
+
+
+* Entering their social media accounts or impersonating them on social media 
+* Sending message on such accounts to facilitate miscommunication or to damage relationships
+* Impersonating as them to cancel job interviews or sabotage potential meetings
+* Sharing private information or photos (e.g. ‘outing’ someone, revenge porn)
+* Threatening to reveal confidential medical information (e.g. disclosing someone’s HIV status or a medical condition)
+
+
+
+
+
+
+
+
+  
+
+Preventative Measures
+Making Progress
+Even after recognizing that there is a need to escape an abusive situation, the greatest priority is to guarantee that you are in the most secure position after you have left the relationship. While some decisions within the community aid section are best taken after the abuse victim has left, it is important to take preparational steps in order to have the best possible range of choices.
+
+
+Gathering Evidence
+Documenting abuse and gathering evidence help create records to prove that the said events happened. Domestic abuse is committed in households or intimate relationships, leading to events and memories without announcements or  photographs. This means that when the abuse victim recounts an instance, it is very easy for that instance to end up conflicting or being unaccounted for by the perpetrator. For an abuse victim to gain the most confidence from the information that they are sharing, they must be able to keep a cohesive narrative with consistent details.
+
+
+ In the case of starting a lawsuit, this means to have some form of evidence and timeline to present while seeking legal aid. While this evidence doesn’t have to be formal, having some documentation of abuse or someone to vouch for the abuse victim can go a long way in making an effective court case.
+
+
+  
+
+* During the course of the relationship and even in the time after, the victim can keep a journal to log every instance of abuse. Whether it is a minor conflict or if it escalates, a collection of entries can help reveal patterns of abusive behavior. Mark the date, time, and place where the behavior happens along with the actual events. If there are any witnesses to what has happened, record their names and ways to contact them.
+  
+
+* If the victim has spoken to a counseling service during the relationship or has visited a doctor or hospital to treat any assault injuries, they can ask for the official files or documents from the medical services to prove that a physical injury or even a psychological one has happened. Having this proof can help legitimize the corresponding event that is logged.
+* Even when an injury isn’t severe enough to warrant a visit to the hospital, an easy method of documentation is photographing any bruising and scratching. If any police were called to the house, the transcripts of the calls or any documentation of the event can be requested.
+* If the relationship has ended or there’s physical distance between the victim and abuser, harassment can still be documented and logged. Texts, voicemails, emails, and social media harassment are all included in verbal and network abuse. By requesting phone call records, recording voice messages, and taking screenshots of online messages, there is proof that the abuse has continued through the alternative means that the abuser could find.  
+* If children were involved in the altercations, documentation and third party witnesses from schools can make statements about the impact that abuse had on the child. This includes any dropping grades as well as changes in behavior that teachers and school counselors could have noticed. 
+Maintaining Networks
+Acknowledging the existence of network abuse also means that the victim must use their efforts to counteract any attempts at isolating themself from opportunities to seek help. Even when the victim is unable to find a way to leave the abusive relationship by themselves, having family and close friends who can comprehend the situation and regularly receive updates creates some security for the victim to fall back upon. 
+
+
+Whether it’s through text or other forms of regular communication, the victim can create a communication channel through which any interference by the abuser would seem abnormal. When an abuser attempts to impersonate the victim or give reasons for their absence in the public, the best way to see past any possible deception is to understand the victim’s regular schedule. When there is a habit - such as texting a friend - which the victim abruptly stops, this signals abnormality rather than a falling out amongst two people.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+Technological Security
+While actively recording and saving evidence of abuse, it is equally imperative to tighten in-person and online security so that these events have a smaller chance of happening again. Whether there is evidence of social media harassment or technology abuse, protective measures should be taken to stop or guard against its possibility. 
+
+
+Verbal abuse and network abuse can be done through social media posts, comments, and using private emails and phone numbers. Continued account access even after a relationship is over can lead to dangers such as being covertly surveilled, having finances restricted, and having appointments interfered with. 
+
+
+There are both practical steps for reinforcing cybersecurity as well as outside sources of protection. The primary objective is to be cautious of using technology, especially while being in close distance of the abuser or if your devices and accounts were bought by your abuser. The abuser may embed a tracking device or have access to GPS as well as location services. If there is any search history on where the victim is planning to go, an abuser who has email or computer access can find that information. Some abusers may even go a step further by searching phone records, using spyware, or logging into various online accounts. In these cases, it is imperative to either block the abuser’s access or become independent from these devices. 
+A key principle of ensuring personal online security is making sure that an account or a device stays personal. While abusers may attempt to justify shared account access as a way to prove that the relationship has trust, it has to be realized that emotional guilt is not a good reason to do anything. The following tips should help increase online security.
+
+
+* Maintain separate social media accounts so that your partner can’t post or send messages using your profile. Also don’t put a partner as the backup security in the case of forgetting passwords or two-step verification processes. This prevents partners from changing passwords or accessing accounts.
+* On most social media sites or messaging sites, it should be possible to check if your account was logged in at certain locations or devices. Make sure to do a periodic check of these locations and devices. After logging out from unfamiliar devices or locations, make sure to change the password. 
+* Use password managers to keep track of multiple accounts. Password managers can keep track of passwords, making it more convenient for the user to create longer and harder to guess passwords without losing track of the actual password.
+* If any Apple devices are used, try to make sure that your accounts aren’t synced across devices. Especially if you have logged in to your iCloud from a partner’s device, your data could be backed up and synced automatically. This means that a partner could have access to private messages, any new photo albums, or even a password management system like Keychain.
+
+
+In addition to cautionary and defensive measures that can improve online security, abuse victims can also take proactive measures which anticipates possible abuse in the aftermath of a relationship. To protect internet security as well as to prevent any possible internet stalking, a person can download a program such as a VPN that can change the location of your device’s IP. This can even help prevent others from accessing your private information when you’re using different wifi services.
+
+
+Legal Measures
+Any interference of an abuser from the physical world or on the internet can affect the abuse victim’s ability to create an effective legal case. This makes proactive measures such as documentation and internet security incredibly influential in providing an evidence-based foundation for what legal actions a victim can pursue.
+
+
+  
+
+
+
+If the abuser is to get their identity stolen or their contact information taken, an abuser can interfere with the victim’s personal network and reputation. One example is when the abuser or a third party would call the police or child protection agencies and report fake information. They might pretend to have overheard a loud dispute or having seen child mistreatment or even pet abuse at the victim’s address. 
+
+
+Not only does this destabilize the victim’s ability to live independently, but accumulating these reports casts doubt on the victim’s credibility. If the victim can record or have proof of these encounters along with their own documentation of the child’s improvements or general lifestyle measures, the victim would have proof of false police and protection agency calls for themselves.
+
+
+In other cases where the abuse victim may live in a smaller town or haven’t moved far from where their abuser lives, their personal network may overlap or even interfere with the legal system in that specific jurisdiction. Especially when legal cases are time consuming, expensive, and very consequential, the victim shouldn’t pursue a legal case if they believe that they may be facing a more biased system. 
+
+
+For some victims, even a private case of domestic abuse can easily spread within a small town where the police department would be familiar with the local attorneys and judges. If the abuser is connected with the attorneys in a certain area or has these legal connections, it may be harder for the abuse victim to use some of their evidence without compromising their own network of people in the community. 
+
+
+To prevent these complications, the abuse victim may like to consider requesting to have their court case moved to a different jurisdiction or appealing to the state attorney general. Both these methods attempt to bring the case out of the responsibility of just the people within the smaller community as a way of reducing bias.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Community Aide
+Why It's Important to Get Help
+In an abusive relationship, the most immediate dangers are threats of harm and physical assault. Coercive control and psychological abuse are harder to recognize, meaning people might even have trouble identifying the reason why they should try to leave the relationship. 
+
+
+If the abuser is constantly exerting coercive control onto their partner, basic facets of a person’s life can be under surveillance. When there is financial abuse and control over when a person can do an errand, that person begins to doubt whether they are able to manage money or make their own decisions. The internal insecurity builds into a loss of self-esteem and a fear of not having outside approval. 
+
+
+Being a victim feels mentally isolating even if there are friends and family members to try and reach out to. If there are children or additional household members involved, a person might even have increased personal doubt because there are more responsibilities to fulfill. Suddenly, the problem might be even harder than removing one person from the relationship.
+
+
+Even when a person can overcome the fear, the abuser might be physically stronger or is willing to use weapons. In other cases, they may try to threaten or guilt the person into staying through their children.
+
+
+Whether there is physical abuse or psychological abuse, it's important to recognize that it is not worth staying in an abusive relationship because there will be long term consequences. When a person is willing to learn more about coercive control or to map the steps of leaving, it is more important than ever to look for support and to build a network of resources. By having resources for education, counseling, and housing, a person can leave an abusive relationship with security and safety. 
+
+
+  
+
+Having a supportive network is especially important in the leaving process in order to guard against network abuse and technology abuse after the relationship has ended. The information and account access that the abuser has during the relationship doesn’t go away just because the person has left. The abuser may still have friends who are around the person or passwords that the person hasn’t changed. If the abuser bought the person a phone plan, a computer device, or smart technology around the house, they can still use their access the same way that they had during the relationship. 
+
+
+Even after the abuser is no longer near the person, it is important to guard against possible stalking and harassment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is Community Aide
+Community aid organizations provide services in local areas through a network of volunteers and workers. Different organizations usually focus on specific problems and social issues that they can help address through their services.
+
+
+Aid organizations focusing on domestic abuse would center around services for education, support, and counseling. These services cast a wide net so that they can teach people to recognize domestic abuse as well as to support people getting out of domestic abuse. Especially when a person doesn’t have a personal support network, aid organizations and service workers are important to help a person recognize that they are in an abusive relationship and that they have the support to help them leave the relationship. 
+
+
+Community aid organizations can give verbal encouragement, more knowledge about any legal processes, as well as contacts for emergency services. There might also be monetary support in the form of housing, food, and replacements for necessary items. In the aftermath of an abusive relationship, aid organizations are an ongoing source of advice in the case of harassment or stalking from the abusive former partner.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aid Organizations in the United States
+
+
+  
+
+
+
+Warmlines:
+A warmline is a call line for a person to call when they are simply looking to have a conversation and some support. The staff on the other end of the line can help talk a caller through their thoughts and offer resources that can address their concerns. Callers may report feeling less isolated and having some mental health recovery. Warmlines are generally more focused on mental health and getting a person into a clear mindset.
+
+
+Hotlines:
+A hotline is a direct call line for emergencies or specifically to get information. This means that the purpose of each call is much more focused in order to give quick and easy access to accurate sources and directions.
+
+
+National Domestic Violence – 24/7 service in multiple languages, gives support and assistance, hotline number : 800-799-SAFE (800-799-7233) and 800-787-3224 (TDD), can also talk live or text
+Mental Health America – A non-profit service that promotes the overall mental health of domestic abuse victims, hotline number : 800-969-6MHA (6642) offers information and resources on mental health topics
+Americans Overseas Domestic Violence Crisis Center – A call line that advises American citizens overseas if they are experiencing domestic abuse. There’s 24/7 service except on major US holidays, hotline number: 866-USWOMEN(879-6636)
+Community Aid:
+Community Aid are organizations that provide more in-person aid. Within the community, there’s less physical distance to overcome between the helping party and the victim, meaning there's concrete support. In the United States, the existence of community aid is smaller, and the organizations that exist can sometimes serve more specific demographics. However, the possibility of community aid development cannot be understated, with the work and impact of existing organizations being an example.
+La Casa De Las Madres – link La Casa is an organization based in California that provides a safe-house and resources for domestic abuse victims. In emergency cases, the organization provides confidential safe shelters. They also operate a 24/7 hotline.
+Operation Safe Escape – link Safe Escape is an organization of volunteers who help domestic abuse victims organize an escape from an abusive relationship. They focus on ensuring safety through mobile security, physical security, and identifying possible threats.
+Stone House – link Stone House is an organization based in Massachusetts that offers education, shelter, and counseling services. They counsel victims on escape plans, provide the means to travel and escape, and provide classes for managing money. They also offer legal assistance in the case that immigration status is being used as a threat.
+Watson Children’s Shelter – link This is a shelter for children coming from abusive situations and households in any crisis. Besides housing, they also provide activities and trips for the children. 
+
+
+
+
+
+
+
+
+International Aid Organizations
+
+
+  
+
+Community aid organizations aren’t a new concept, and it has been implemented internationally. In Australia and the United Kingdom, programs have addressed coercive control in domestic abuse and also reduced the murder of women by 3x in any domestic abuse situations.
+Safe Haven Community – link This organization is based in Australia and uses an earlier intervention pathway. For any women who is at risk of domestic abuse, accomodations can be provided.
+White Ribbon – link This organization is based in Australia and focuses on an education based movement. Through a primary prevention approach, men are encouraged to take an active stance against violence. As bystanders, the organization encourages people to take warning signs seriously and actively offer support for victims.
+
+
+Refuge – link The organization is based in the United Kingdom and provides emergency shelter as well as counseling for domestic abuse.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Legal Assistance for Victim Protection
+During the process of ending the abusive relationship and keeping the person safe, it can be useful to consider filing a legal case. A legal case can help domestic violence survivors obtain a protective order, secure a separation or divorce while considering finances and housing, as well as to secure child custody orders. Having a court decision can help the person regain independence and set boundaries between themselves and the abuser. 
+
+
+  
+
+
+
+Civil legal aid has been rated by survivors to be one of the most effective ways of stopping domestic violence. Obtaining a permanent protection order results in an 80% decrease of risk of physical violence being reported to the police in the following 12 months.
+
+
+For many low income citizens in various countries, providing enough money to hire a lawyer can be a significant request. Legal aid addresses this by providing direct legal services and legal advice. The following list provides organizations that focus on providing legal advice as well as legal aid grants and services. Victims can file for a civil lawsuit or a criminal lawsuit for domestic abuse.
+
+
+Battered Women’s Justice Project – Works on providing a criminal justice response to domestic violence cases, hotline for victims who can speak to advocates and be referred to legal resources, hotline: 800-903-0111, prompt 1
+
+
+The Legal Services Corporation – A civil legal aid service that helps people and households with low income address various issues. In the family law category, grants provide legal aid for domestic abuse disputes and child custody.
+
+
+The National Crime Victim Bar Association – Provides legal assistance to victims of crime. By submitting a form, the association can provide referrals to civil attorneys within their network.
+National Center for Victims of Crime – Referral helpline to learn about the rights of the victim and to receive advice confidentially and compassionately. Reached via phone and text at 855-4-victim or via online chat Monday-Friday from 9am to 5pm EST
+  
+
+If the victim is unable to qualify for legal aid services or has the ability to look for their own legal counsel, there are still ways to make sure that you can find a lawyer who is experienced, or even specialized, in domestic abuse cases. 
+Here are some general tips:
+
+
+* People will usually provide referrals or leave client reviews if they have a strong opinion towards an attorney they have worked with. If an attorney has a well-rated profile online and positive comments, it's very likely that they would be better to get along with.
+* The state or local bar association will generally have an online directory or membership list of reputable lawyers. To become members in some of these local associations, the attorney will have to pay dues in return for entrance into legal events or workshops. It is generally indicative that the attorney is interested in being involved in the legal sphere as well as bettering their own practice.
+* Community aid organizations focused on domestic violence would also have resources directed towards finding suitable attorneys in the local area. 
+* After creating a list of recommended attorneys, the victim has to call their offices in order to make sure that the attorney would be the most competent to help their specific case. While the victim is sharing the details of their abuse, they must also take notes on how the attorney reacts. 
+
+
+Some necessary points to think about: 
+
+
+* Is the lawyer empathetic to the victim’s situation?
+* Is the lawyer able to explain their expectations for this case based upon past experience?
+*  Is the lawyer able to grasp the gravity of the situation instead of dismissing the victim’s worries?
+* By the end of asking these questions, the victim should have a firm idea of how to answer questions regarding the potential attorney’s amount of experience in domestic abuse, their professionalism when addressing an incredibly private topic, how knowledgeable and specialized they are in this particular field of law, and their experience working in that particular jurisdiction or area.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Creating a Legal Case
+Purposes for Domestic Violence Court Cases
+While the most important step to take in an abusive relationship is to leave the abuser, survivors should also consider any risks in the aftermath of leaving. As described in the previous section, abusers can continue to send threats of physical harm or even keep control of technology and online accounts shared during the relationship. 
+
+
+Assault from the duration of the relationship can result in medical bills, scars, and injuries that last long after the relationship has broken apart. Court cases can investigate the actions of the abuser during the relationship and also set conditions to protect the domestic abuse survivor in the aftermath of the relationship.
+
+
+  
+
+
+
+A civil domestic violence case serves to protect the domestic abuse victim as well as any children involved. The court can provide legal protection through restraining orders, divorce, and child custody orders. In civil cases, there is a lower burden of proof, meaning it is easier for a person to obtain legal protection.
+
+
+A criminal domestic violence case serves to investigate and prosecute the abuser. Abuse includes physical assault, financial abuse, stalking, and psychological abuse. The crimes that can be prosecuted vary slightly between different states. However, the burden of proof in a criminal case is much higher. Often, evidence is required before the prosecutor is willing to file for charges.
+A ‘domestic violence restraining order’ - also known as a ‘protective order’ - can be filed at court. While there is a temporary restraining order over the course of the hearing, the court can order a permanent restraining order if the person can provide enough evidence. The conditions of a restraining order include prohibiting contact, keeping a certain distance away, and even surrendering firearms. If there are children and other family members who were also in the household, they can be protected under the same restraining order.
+
+
+  
+
+
+
+Another important purpose for a court case is divorce and child custody. A restraining order cannot set the grounds for child custody besides giving a temporary guideline for visitation rights. This means that both matters are separate in the court system, but the evidence used for your case can very well be the same.
+
+
+
+
+
+
+  
+  
+
+Discovery
+The discovery is an exchange of information between both sides of the court case. The preventative measures taken by the victim over the course of their relationship, and even afterwards, are the most significant groundwork to building up the evidence for the legal case. 
+
+
+Character Witnesses
+Character witnesses and character evidence are used to highlight a person’s good traits or negative traits. It is important to note that character witnesses aren’t allowed in some states, and when they are allowed, they can impact the jury in a strong way. Depending on whether the witness or source is considered trustworthy, their statements can further legitimize the person’s statements. 
+
+
+Character evidence can also be used to show the person is “good.” By gathering witnesses in the community that can describe a person’s reputation and anything impactful that they have done, character evidence can be used to imply whether the person would morally believe in acting in a certain way.
+
+
+Another method of supporting a person’s statements is habit evidence. Habit evidence attempts to prove that a person would typically act in one way during situations similar to the discussed situation. If a person routinely goes somewhere or contacts a person when one event happens, you can use that to prove why a person will consistently act in a certain way.
+
+
+Aside from writing down the witnesses that were present during abuse that was going on, courts also place weight on a neutral third party. This means that besides any friends or family members, a doctor or counselor can give a statement if you had medical treatments or counseling that resulted from the abuse. 
+
+
+When describing abuse victims in the face of certain abusive situations, it is important to not exclusively use character or habit evidence as a way to emphasize distress and helplessness. 
+Especially in divorce and custody cases, the victim’s personal steps to leave the relationship and their capability to maintain an independent life are important factors when it comes to their ability to manage personal finances or take care of their children. This can be demonstrated by presenting evidence that can create some connection between action and impact. If the parent places their child in an after school program or shows up to parent-teacher conferences, a good report card can show the parent’s capabilities.
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Court Statements
+A court statement is a written overview of the person’s experience leading up to the court case. A person can be asked to present either a formal statement - an affidavit - or an informal statement in court. An affidavit is legally binding, meaning that it is important to have every event described be as factually accurate as possible. 
+
+
+A notary or solicitor should be present for an affidavit to  make sure that everything written is well represented. Both a formal or informal statement are considered by court to be a piece of legal evidence, meaning it's important to clearly describe a person’s identity, describe their timeline of events, and have the evidence and documentation to back up the words.
+  
+
+The point of presenting a cohesive statement is that the victim and any witnesses of the case can show themselves to be trustworthy. This means that the people should rehearse their statements and feel comfortable with the words and language that is used. The personal blame that a domestic abuse victim might feel towards themselves can also be a bias among possible witnesses as well. This can be detrimental to the case being made if there are any misconstrued blames being put on the victim for ‘provoking’ the abuser’s actions or for not standing up for themselves sooner.
+
+
+In the closing statements of the court case, it's also important to selectively use evidence as a way to contextualize misunderstandings. While it is expected to bring up points from the other side, not properly adding background or showing the impact of certain events and words will result in simply reinforcing the other side’s points. If a closing argument is highlighting important quotes from documentation or analytical graphs, a simple display will communicate a fact much more effectively compared to a complicated graph or an entire page of words.
+
+
+
+
+Electronic Evidence
+* A detailed log of dates and events gives more concrete examples about the subject of the lawsuit while the supporting documentation provides validity to any court statements. An electronic discovery becomes very relevant especially at a time when technology abuse is so rampant. 
+* Besides the literal proof of a picture, a recording, or a saved message, online records contain metadata that can further legitimize these pieces of evidence. Regardless of what online application is used, a messaging platform or a photo application, each saved file contains background information. This information includes what device the file was created on, how the file has been edited, and the times and dates at which these edits were made. For photos and visual graphs, metadata may even reveal the geographic location of pictures taken and the formulas that are put into creating the visual display.
+* In cases where saved messages and documents archived online are the most important parts of the evidence, it is worth considering investing in metadata production and mobile forensics. During the process of exchanging information and defending the evidence in an electronic discovery, metadata offers proof that this evidence is legitimate and untampered with.
+
+
+  
+
+
+
+Using Data Analysis as Evidence
+
+
+Using Data Science in Legal Cases
+In a legal case, the discovery process is where the records and evidence from both sides is presented before the actual trial. The material that can be submitted for evidence is used to support all statements that are made. An electronic discovery is the digital version of all the evidence, such as emails, social media posts, and messages. Since electronic evidence can include timestamps, the file type, and information about who sent and received it, it's hard to to get rid of and useful to investigate.
+
+
+Databases and data analysis can be used in the discovery process as a way to draw statements and conclusions with more mathematical evidence. Any event, emotion, or behavior in the relationship can be quantified into numbers and patterns. The numbers themselves are collections of facts, and the analysis results created a factual statement about the numbers. A collection of these statements can be used as evidence for a particular argument. 
+
+
+The way that data is accessed and reliably analyzed is by cross-checking with an expert in data science or cybersecurity. By hiring specific people who understand the topic of domestic abuse and can place empathy into a subject, data can be used in a way that can align with the person’s experiences while also highlighting the impact that the actions have outside of the number.
+
+
+  
+
+Useful Databases
+https://www.cdc.gov/injury/wisqars/index.html
+* This is an index of injury and death data. This helps to estimate the cost of family abuse situations, including child neglect prevention, health care, and loss of work opportunity.
+
+
+https://www.cdc.gov/violenceprevention/datasources/nvdrs/dataaccess.html
+* A more specific version of the injury and death database. If there is a licensed researcher or person, they can apply to access this database.
+
+
+https://towardsdatascience.com/domestic-violence-the-shadow-pandemic-of-covid19-2db1167a1988
+* How covid 19 policy and quarantine impacted access to support networks, healthcare, and finances
+* The effect of covid 19 policy on the population
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is Data Analysis
+Machine Learning
+Machine learning provides a way for computers to learn without the process being explicitly programmed. While traditional programming requires the programmer to provide very detailed instructions to direct the computer to do a step, machine learning allows the computer to program itself through ‘experience.’ 
+
+
+The computer gains ‘experience’ when the programmer inputs data. The computer model can train itself to recognize patterns and make predictions based on the volume of data it has. If the computer model’s predictions are inaccurate in any way, the computer programmer can adjust the algorithm or the parameters of the data. 
+
+
+  
+
+
+
+Domestic abuse data can be gathered through the names and characteristics of people who are/were in these relationships, witnesses who have seen incidents around them, acquaintances who can serve as supporters, people who have been in prior relationships with one of the people, as well as any employers with time or memory records. All these people can provide more data in the form of images taken, language and word choice used through messaging, audio recordings, and event recounts. 
+
+
+This abstract evidence can be changed into data by studying the frequencies of different kinds of behaviors, comparing word choices with each other, and image recognition. This process of using a computer model and algorithm to analyze the large volume of data turned over from the evidence is called data analysis.
+Data Analysis
+Data analysis is the process of collecting and analyzing data to draw information. This field intersects with machine learning. There are both many methods of collecting data as well as many methods of analyzing this data. 
+
+
+The data collection process can be about both the time of the abusive relationship and what happens after the relationship has ended. The timeline of coercive control is important because it drives the point that there was coercion and control being forced onto the victim during the relationship, and the same psychological abuse or the impact of the abuse can continue after the relationship has ended. 
+
+
+Once the behavior is quantified, analysis can be used to find patterns of abuse and even identify how much was cost in finances and even life opportunities. Data analysis takes the context of the abuse and gives it more structure and facts to stand on.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Types of Data Gathering Processes
+  
+
+Qualitative data gives descriptions rather than numbers. It's a better way to understand the thoughts and feelings underlying a relationship as well as to see what the community customs and attitudes are. 
+
+
+Quantitative data is numerical data. The numbers each have assigned labels for what they represent, meaning the numbers produced at the end of the analysis have connected labels and meanings. To compare one case and another, the input data has to be standardized for all participants during the data gathering process.
+
+
+Sample surveys are a method of data gathering that asks a set of questions. The participants choose from a list of answers. This might be picking a number from 1-5 for how you feel, or having multiple choice to circle.
+
+
+Official statistics are another source of data gathering from administrative offices. The list of domestic violence events reported to officials is a lot smaller than the number of actual violence. However, this data could be useful to better understand how social services or health services interact with people.
+
+
+Since domestic abuse involves an incredibly intimate situation between family members or household partners, a large amount of data is gathered by the abuse victim. Referring to the ‘Preventative Measures’ section, quantitative and qualitative data would be sourced from any recorded interactions or documented evidence of abuse.
+
+
+
+
+Types of Machine Learning Biases
+Biases are commonly present in machine learning, and more specifically, the data analysis process. While any bias in the algorithmic process has to be present in either the data or the parameters set in the model, humans are ultimately the ones to amplify any biased views onto the process. 
+
+
+This means that while creating a case for domestic abuse, the experts behind the data collection and analysis process are the most influential factors in determining the possible biases within the data and conclusions presented. 
+
+
+Finding experts that understand the circumstances and ramifications of domestic abuse is incredibly important in making sure that the data evidence doesn’t misrepresent the domestic abuse victim, or invalidate their statements. 
+
+
+These are different kinds of biases that can occur:
+
+
+Sample bias happens during the data-gathering process. While selecting the people to survey, the sample size doesn’t reflect the population that the data is intended to represent. There will be an overrepresentation of underrepresentation of certain demographics. 
+  
+  
+
+
+
+Recall bias is a natural result of describing events from memory. A person answering the survey questions might not think it's relevant to mention things that have happened in the past, or those events may simply have been forgotten. 
+  
+
+
+
+Exclusion bias is the removal of relevant factors in the data that the person believes is irrelevant to the actual analysis. During the process of organizing data after it has been gathered, factors or characteristics of the sample size may be removed despite certain details having larger implications on the context of the data. While presenting an abuse case to an audience, removing too much data about the victim’s private or public life can also remove the context that makes their narrative compelling. 
+  
+
+
+
+
+
+
+
+Observer bias happens when the programmer creates the model or organizes the data with a set of beliefs already. When they set labels for the data or create descriptions for what’s happening in the data, they are already assuming and predicting a result that has not been proven yet. When the data input produces results, the conclusion has already been influenced from the beginning.
+  
+
+
+
+Racial bias is when the data leans toward one demographic based on the technology that’s currently available. Using sample bias and exclusion bias, often men or white skin color is used as the main standard for the data that was previously gathered. This means that when speech recognition or facial recognition technology is used, it's harder to recognize darker skin tones or different vernaculars.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Considering the Role of Artificial Intelligence
+Machine learning and data analysis are both forms that help to analyze the experiences of domestic abuse and give supporting statements. The reason that both are so efficiently used is because they are under the umbrella of artificial intelligence. 
+  
+
+Artificial intelligence is the creation of computer machines that can make decisions in response to its environment. The environment is simply the information put into the machine, whether its numbers or sentences. 
+
+
+AI algorithms can create computer systems that can draw conclusions or give predictions based on the data input. It encompasses an academic field that uses both computer science and many data-sets in order to answer questions and solve problems. 
+
+
+This broader method of problem-solving doesn’t have to be as seriously considered compared to data analysis, but the general field does hold other options for using data and evidence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Linking Domestic Abuse Context to Data Analysis
+General Process
+The steps taken for preventative measures during and after an abusive relationship are important as proof and the context that builds an abuse victim’s narrative. 
+
+
+Logging abusive occurrences and providing documentation gives a large amount of information about the abuser’s schedule, their habits, their word choice, and their methods. The victim’s personal log provides the dates, time, and the abuser’s actions. These dates and times will then correspond with text logs, medical history, or general documentation. 
+
+
+Once each date and time can be linked to a corresponding amount of evidence, the general timeline can also be split to work for different types of evidence. If there was social media and text harassment, links between time and word choice can show if the abuser was making more threats or even being more vicious after certain points. If the victim was able to record the abuser’s speech, any voicemails, or have a transcription,  there can be observations made about links between time and speech. 
+
+
+This timeline of events can display the cycle of the abusive relationship. 
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+Data Analysis
+Rather than manually processing logs and documentation, data scientists can use computers to process large amounts of this evidence. A speech to text program might be used instead of taking large amounts of time for listening and transcribing recordings. Social media posts and private emails can also be classified differently, making it possible to compare the public and private word choices of the abuser. Depending on the subject of analysis, there are different types of processes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Types of Data Analysis Processes
+  
+
+Language analysis studies word choice. Whether this is the transcription of a recording or a written message, a data scientist might analyze types of words used most often or classified in certain ways. Key words may be linked to the abuser’s emotions or intentions, whether that is being malicious or depreciating.
+  
+
+Content analysis studies the subject matter or themes in the transcriptions or messages made. There may be groups of words that are all related to a type of threat or insult that the abuser consistently makes.
+  
+
+Timing analysis studies the pattern of activity through dates and times. If a cluster of text messages are always sent on a certain weekday or time, the timing of messages can show how the abuser plans their behavior.
+  
+
+Threat analysis studies the threat that the abuser poses based on what words or actions they perform. This can depend on how the data scientist or the client wants to classify certain phrases or events - as high risk or low risk.
+
+
+Timeline and Storyboard Presentation
+Once times and dates are linked to evidence in the data analysis process, the results are then put in a visual display. Besides a mathematical model or graph, other kinds of displays can focus on aspects of the evidence that need to be more emphasized in the legal case. Depending on the type of analysis done, the evidence can provide empirical backing for any statements made.
+
+
+A heat map can be a table or a geographical map that uses color to represent frequency. Based on the factors labeled along the axis, the areas of red and green show how the two factors interact. Red is where the highest frequency of something occurs while green is where the lowest frequency occurs.
+  
+
+A word cloud is a display of many words. Depending on how frequently a word is mentioned, its font size can be larger or smaller in comparison to other words on the map. This helps show how significant verbal abuse can be, including the violence and hatred behind the language.
+  
+
+There can also be a line graph or a timeline with an axis representing time and the other axis for a factor such as a ‘level of threat.’ If the graph shows a linear peak, it can display a significant moment and highlight any threat or fear charging the event. If there is a constant linear growth or a pattern, it can highlight a cycle of intimidation that heightens.
+  
+
+
+
+Besides the presentation of these visual graphs as ways to emphasize statements using an empirical method, it is also important to have a cohesive narrative that provides the foundation for data analysis. For each link between time and event, there has to be some validation that the event is truthful. This narrative can be held together by having a clear log of events by the victim, but it is also helpful to have any listed witnesses collaborate. 
+
+
+On significant dates or periods of time, the evidence used for the visual display is also the documentation needed in the case discovery. Any witnesses whose presence corresponds with significant events can provide their testimony of what had happened in the moments surrounding the abusive incident. 
+
+
+
+
+
+
+
+
+
+
+Special thanks to the help of Kenneth Vignali - Founder, Signature Peace of Mind Advisors 
+Sources
+
+
+“What Is Domestic Abuse? | United Nations.” United Nations, https://www.un.org/en/coronavirus/what-is-domestic-abuse.
+
+
+“Domestic Abuse Is a Gendered Crime - Women’s Aid.” Women’s Aid, https://www.womensaid.org.uk/information-support/what-is-domestic-abuse/domestic-abuse-is-a-gendered-crime/.
+
+
+“Statistics.” The Nation’s Leading Grassroots Voice on Domestic Violence, https://www.ncadv.org/statistics. 
+
+
+“Male Domestic Abuse Is More Common Than You Think.” Family Resources, 22 Aug. 2019, https://familyresourcesinc.org/2019/08/male-domestic-abuse-common/.
+
+
+“Effects of Domestic Violence on Children | Office on Women’s Health.” Home | Office on Women’s Health, https://www.womenshealth.gov/relationships-and-safety/domestic-violence/effects-domestic-violence-children.
+
+
+“Impact of Child Abuse | American SPCC.” American SPCC, 20 Apr. 2021, https://americanspcc.org/impact-of-child-abuse/.
+
+
+“The Cycle of Domestic Abuse.” National Center for Health Research, 27 Oct. 2020, https://www.center4research.org/the-cycle-of-domestic-violence/.
+
+
+“Controlling or Coercive Behaviour in an Intimate or Family Relationship | The Crown Prosecution Service.” The Crown Prosecution Service | The Crown Prosecution Service, https://www.cps.gov.uk/legal-guidance/controlling-or-coercive-behaviour-intimate-or-family-relationship.
+
+
+“The New Domestic Violence: Technology Abuse.” Family Justice Center Alliance, https://www.familyjusticecenter.org/the-new-domestic-violence-technology-abuse/.
+
+
+“Gathering Evidence of Abuse.” Center for Public Legal Education Alberta, https://www.cplea.ca/wp-content/uploads/GatheringEvidence.pdf
+
+
+“Domestic Violence against Women: Recognize Patterns, Seek Help - Mayo Clinic.” Mayo Clinic - Mayo Clinic, https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/domestic-violence/art-20048397?p=1.
+
+
+“What Is a Warmline? - Hope and Healing Center and Institute.” Hope and Healing Center and Institute, 1 Nov. 2019, https://hopeandhealingcenter.org/what-is-a-warmline/
+
+
+“Domestic Violence Support | The National Domestic Violence Hotline.” The Hotline, https://www.thehotline.org/.
+
+
+“Finding Help | Mental Health America.” Mental Health America, https://www.mhanational.org/finding-help.
+
+
+“Americans Overseas, International Hotline 1-866-USWOMEN(879-6636) - The National Prevention Toolkit.” The National Prevention Toolkit, https://nationaltoolkit.csw.fsu.edu/resource/americans-overseas-international-hotline-1-866-uswomen879-6636/.
+
+
+
+
+
+
+“How Legal Aid Helps Domestic Violence Survivors | LSC - Legal Services Corporation: America’s Partner for Equal Justice.” LSC - Legal Services Corporation: America’s Partner for Equal Justice, https://www.lsc.gov/our-impact/publications/other-publications-and-reports/how-legal-aid-helps-domestic-violence.
+
+
+“Legal Advocacy for Victims.” Battered Women’s Justic Project, https://www.bwjp.org/services/legal-advocacy-for-victims.html.
+
+
+“What Is Legal Aid? | LSC - Legal Services Corporation: America’s Partner for Equal Justice.” LSC - Legal Services Corporation: America’s Partner for Equal Justice, https://www.lsc.gov/about-lsc/what-legal-aid.
+
+
+“Attorney Referral Request Form – The National Crime Victim Bar Association.” The National Crime Victim Bar Association – Helping Crime Victims Pursue Civil Justice, https://victimbar.org/attorney-referral-request-form/.
+
+
+“The National Center for Victims of Crime – The National Center for Victims of Crime.” The National Center for Victims of Crime – The National Center for Victims of Crime, https://victimsofcrime.org/.
+
+
+“Tips to Find Right Domestic Violence Lawyer – Plateau State Gov.” Plateau State Gov, https://plateaustategov.org/2019/11/13/tips-to-find-right-domestic-violence-lawyer/.
+
+
+“Civil vs Criminal Domestic Violence: What’s The Difference?” Vonder Haar Law Offices, 16 Oct. 2019, https://vonderhaarlaw.com/domestic-violence/civil-vs-criminal-domestic-violence/
+
+
+“Domestic Violence - Definition, Examples, Cases, Laws.” Legal Dictionary, 25 Feb. 2015, https://legaldictionary.net/domestic-violence/.
+
+
+“How Does a Lawsuit Work? Basic Steps in the Civil Litigation Process.” Stoel Rives LLP Attorneys - A Leading U.S. Law Firm | Stoel Rives LLP, https://www.stoel.com/legal-insights/article/how-does-a-lawsuit-work-basic-steps-in-the-civil-litigation-process
+
+
+“Evidence Code 1101 - Character Evidence in California Trials.” Shouse Law Group, https://www.shouselaw.com/ca/defense/evidence-code/character-evidence/.
+
+
+“How To Write A Statement For Court - Fair Punishment.” Fair Punishment, 7 Jan. 2022, https://fairpunishment.org/how-to-write-a-statement-for-court/.
+
+
+“What Is an Affidavit? - How to Write an Affidavit?” Rocket Lawyer: Free Legal Documents, Attorneys, Incorporations & Taxes, https://www.rocketlawyer.com/gb/en/quick-guides/affidavits.
+
+
+“The Do’s and Don’ts of Closing Arguments - Law Firm Klein & Wilson.” Klein & Wilson, https://www.kleinandwilson.com/publications/the-do-s-and-don-ts-of-closing-arguments/.
+
+
+“Metadata: Is It Really Worth It? - Law Technology Today.” Law Technology Today, 12 Jan. 2016, https://www.lawtechnologytoday.org/2016/01/metadata-really-worth/.
+
+
+“The Women’s Coalition - Home.” The Women’s Coalition, https://www.womenscoalitioninternational.org/.
+
+
+“What Is Electronic Discovery?” SearchSecurity, TechTarget, 24 Aug. 2021, https://www.techtarget.com/searchsecurity/definition/electronic-discovery-e-discovery-or-ediscovery.
+
+
+“Machine Learning, Explained | MIT Sloan.” MIT Sloan, MIT Sloan School of Management, https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained.
+
+
+
+
+“Qualitative.” Virtual Knowledge Centre to End Violence against Women and Girls, https://www.endvawnow.org/en/articles/1654-qualitative.html.
+
+
+“Data Collection on Violence Against Women | EIGE.” European Institute for Gender Equality, https://eige.europa.eu/gender-based-violence/data-collection.
+
+
+“IBM Developer.” IBM Developer, https://developer.ibm.com/articles/machine-learning-and-bias/.
+
+
+“The Big (Data) Gender Bias.” Creative, 4 May 2021, https://www.creativeassociatesinternational.com/stories/the-big-data-gender-bias/.
+
+
+How Better Data Can Reduce Domestic Violence. https://apps.urban.org/features/domestic-violence-data/.
+
+
+“Age Adjustment and Recall Bias in the Analysis of Domestic Violence Data: Methodological Improvements Through the Application of Survival Analysis Methods | Office of Justice Programs.” Home | Office of Justice Programs, https://www.ojp.gov/ncjrs/virtual-library/abstracts/age-adjustment-and-recall-bias-analysis-domestic-violence-data.
+
+
+“Seven Types Of Data Bias In Machine Learning.” TELUS International Customer Experience & Digital Solutions, TELUS International, 4 Feb. 2021, https://www.telusinternational.com/articles/7-types-of-data-bias-in-machine-learning.
+
+
+“What Is Artificial Intelligence (AI)?  | IBM.” IBM - United States, https://www.ibm.com/cloud/learn/what-is-artificial-intelligence.
