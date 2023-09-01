@@ -64,7 +64,7 @@ Being able to identify domestic abuse is being able to create a timeline identif
 The timeline is the collection of injuries, witnesses, communication, and documents that create the complete narrative of how the abusive relationship has affected the victim’s life. Prior to the relationship, people and evidence can prove the victim’s character and their values. During the relationship, documents and messages can prove the destructive influence that the abuser has had on the victim’s life. After the relationship, any communication and witnesses can prove the continued threat and impact that the abuser still has on the victim.
 
 ### Stages of the Timeline
-Prior to the abusive relationship, the victim can illustrate their character through character witnesses. There may be school friends, acquaintances that have since lost touch, and family members. Character witnesses like these can testify on the victim’s personality, any good deeds they have done, and their general reputation. When there is a longer span of time for the mutual relationship, there’s also more credibility given to their testimony and knowledge of you.
+Prior to the abusive relationship, the victim can illustrate their character through <i>character witnesses</i>. There may be school friends, acquaintances that have since lost touch, and family members. Character witnesses like these can testify on the victim’s personality, any good deeds they have done, and their general reputation. When there is a longer span of time for the mutual relationship, there’s also more credibility given to their testimony and knowledge of you.
 <br>During the abusive relationship, the victim could be introduced to new people, actively seeking out specific people, or reducing their contact with their older acquaintances. While the very basis of domestic abuse is to cause harm within a very intimate relationship, being able to log and label the corresponding times of when ‘outsiders’ were present can be incredibly helpful for verifying the context surrounding a particular dispute. When this is compared with any testimony from prior to the relationship, witnesses can prove that a victim has shifted their personality or actions in a way that they wouldn't have acted by themselves. 
 
 In the aftermath of an abusive relationship, it remains important to maintain a timeline of various relationships because of the possibility of continued abuse. If the abuser continues to harass the victim, any records of this harassment would have to be documented through close witnesses and preserved electronic evidence. Besides providing screenshots or documents, close friends and family members can give better details about the emotional impact and the destabilizing effect that harassment created in the victim’s life.
@@ -78,8 +78,21 @@ Domestic abuse is a pattern of abusive behavior within a relationship where one 
 <b>//Full Guide in PDF Form In Documents Uploaded//</b>
 <br>https://github.com/RescueSocialTech/Guide_Cases_Domestic_Abuse/blob/main/Guide%20to%20Successful%20Cases%20for%20Domestic%20Abuse%20Victims%20-%20Final%20Guide.pdf
 
+<b>EXAMPLE CHAPTERS:</b>
+
+#### Discovery
+The discovery is an exchange of information between both sides of the court case. The preventative measures taken by the victim over the course of their relationship, and even afterwards, are the most significant groundwork to building up the evidence for the legal case. 
+
+#### Character Witnesses
+Character witnesses and character evidence are used to highlight a person’s good traits or negative traits. It is important to note that character witnesses aren’t allowed in some states, and when they are allowed, they can impact the jury in a strong way. Depending on whether the witness or source is considered trustworthy, their statements can further legitimize the person’s statements...
+
+#### Maintaining Networks
+Acknowledging the existence of network abuse also means that the victim must use their efforts to counteract any attempts at isolating themself from opportunities to seek help. Even when the victim is unable to find a way to leave the abusive relationship by themselves, having family and close friends who can comprehend the situation and regularly receive updates creates some security for the victim to fall back upon. 
+
+Whether it’s through text or other forms of regular communication, the victim can create a communication channel through which any interference by the abuser would seem abnormal. When an abuser attempts to impersonate the victim or give reasons for their absence in the public, the best way to see past any possible deception is to understand the victim’s regular schedule. When there is a habit - such as texting a friend - which the victim abruptly stops, this signals abnormality rather than a falling out amongst two people.
+ 
 ### Authors/Source:
-A University Student helped create a Guide mainly for legal cases and the different layers of understanding abuse, creating successful cases, witnesses, data analysis, correlations, etc.
+A University Student helped create a Guide mainly for legal cases and the different layers of understanding abuse, creating successful cases, witnesses, data analysis, correlations, and more.
 
 We focused on created a Guide for Cases (including legal and criminal). 
 <br>It's 56 pages. "Exhibits" could also be described, but the guide is great for giving out to victims and to law firms themselves.
