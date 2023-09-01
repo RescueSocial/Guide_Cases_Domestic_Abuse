@@ -94,7 +94,7 @@ Whether it’s through text or other forms of regular communication, the victim 
 ### Authors/Source:
 A University Student helped create a Guide mainly for legal cases and the different layers of understanding abuse, creating successful cases, witnesses, data analysis, correlations, and more. They did this mostly independly upon studying terms and situations.
 
-We focused on created a Guide for Cases (including legal and criminal). 
+We focused on created a Guide for Cases (including legal, civil and criminal). 
 <br>It's 56 pages. "Exhibits" could also be described, but the guide is great for giving out to victims and to law firms themselves.
 - Help on the Case Examples were assisted by Signature Peace of Mind https://signaturepeaceofmind.com/about-us, who has volunteered with Safe Escape:
 https://safeescape.org/about-us
