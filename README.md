@@ -84,7 +84,7 @@ Domestic abuse is a pattern of abusive behavior within a relationship where one 
 The discovery is an exchange of information between both sides of the court case. The preventative measures taken by the victim over the course of their relationship, and even afterwards, are the most significant groundwork to building up the evidence for the legal case. 
 
 #### Character Witnesses
-Character witnesses and character evidence are used to highlight a person’s good traits or negative traits. It is important to note that character witnesses aren’t allowed in some states, and when they are allowed, they can impact the jury in a strong way. Depending on whether the witness or source is considered trustworthy, their statements can further legitimize the person’s statements...
+Character witnesses and character evidence are used to highlight a person’s good traits or negative traits... Depending on whether the witness or source is considered trustworthy, their statements can further legitimize the person’s statements...
 
 #### Maintaining Networks
 Acknowledging the existence of network abuse also means that the victim must use their efforts to counteract any attempts at isolating themself from opportunities to seek help. Even when the victim is unable to find a way to leave the abusive relationship by themselves, having family and close friends who can comprehend the situation and regularly receive updates creates some security for the victim to fall back upon. 
@@ -92,7 +92,7 @@ Acknowledging the existence of network abuse also means that the victim must use
 Whether it’s through text or other forms of regular communication, the victim can create a communication channel through which any interference by the abuser would seem abnormal. When an abuser attempts to impersonate the victim or give reasons for their absence in the public, the best way to see past any possible deception is to understand the victim’s regular schedule. When there is a habit - such as texting a friend - which the victim abruptly stops, this signals abnormality rather than a falling out amongst two people.
  
 ### Authors/Source:
-A University Student helped create a Guide mainly for legal cases and the different layers of understanding abuse, creating successful cases, witnesses, data analysis, correlations, and more.
+A University Student helped create a Guide mainly for legal cases and the different layers of understanding abuse, creating successful cases, witnesses, data analysis, correlations, and more. They did this mostly independly upon studying terms and situations.
 
 We focused on created a Guide for Cases (including legal and criminal). 
 <br>It's 56 pages. "Exhibits" could also be described, but the guide is great for giving out to victims and to law firms themselves.
