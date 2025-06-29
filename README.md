@@ -5,7 +5,7 @@
 
 Despite the growing awareness of domestic abuse and the social recognition for abuse victims, this support is harder to gain through court systems and legal routes. In the aftermath of an abusive relationship, the risk of harassment and further abuse from the abuser can remain high especially because they already gained access to the victim’s network and information. In addition to physical assault, verbal abuse and psychological damage can also pose a large risk to the victim’s ability to recover their life after the relationship.
 
-This guide addresses how a person can look out for possible risks during and after an abusive relationship as well as to create a court case that can be both defensible and convincing. This process begins with creating a clear timeline for documenting the events and impact of abuse, and emphasizes being mindful of how technology can be used for help. 
+This guide addresses how a person can look out for possible risks during and after an abusive relationship as well as to create a court case that can be both defensible and convincing. This process begins with creating a clear timeline for documenting the events and impact of abuse, and emphasizes being mindful of how technology can be used for help.
 
 ##### <i>Keep in mind that any legal advice or legislative knowledge in the guide is very broad, and it can be helpful to look up laws specific to your state or general region.</i>
 
