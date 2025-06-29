@@ -1,7 +1,7 @@
 # Guide_Cases_Domestic_Abuse
 
 ### <b><a href="https://github.com/RescueSocialTech/Guide_Cases_Domestic_Abuse/blob/main/Guide%20to%20Successful%20Cases%20for%20Domestic%20Abuse%20Victims%20-%20Final%20Guide.pdf">Guide to Successful Cases for Abuse Victims</a> -
-<i>Timelines, Types of Abuse, Evidence, Witnesses, Aid, & Technology</i></b>
+<i>Timelines, Types of Abuse, Evidence, Witnesses, Aid, & Technology</i></b> 
 
 Despite the growing awareness of domestic abuse and the social recognition for abuse victims, this support is harder to gain through court systems and legal routes. In the aftermath of an abusive relationship, the risk of harassment and further abuse from the abuser can remain high especially because they already gained access to the victim’s network and information. In addition to physical assault, verbal abuse and psychological damage can also pose a large risk to the victim’s ability to recover their life after the relationship.
 
